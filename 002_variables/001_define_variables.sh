@@ -6,5 +6,7 @@
 
 #name=value # no spaces between =
 
-NAME="Naveen"
+readonly NAME="Naveen"
 echo $NAME
+
+NAME="Again?"  # Can't make changes to readonly
