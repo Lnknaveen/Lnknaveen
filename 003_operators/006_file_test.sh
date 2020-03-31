@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 # [ -b $file ] Checks if the file block is special file.
 # [ -c $file ] Checks if the file block is special file.
